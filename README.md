@@ -7,15 +7,15 @@ Built before discord had implemented its moderation functionality.
 It deletes messages with sexual / racist content, and also serves as a quick crypto-currency price-checker.
 Features:
 
-    Moderation Messages containing racism / sex are deleted and the sender is publicly warned.
+  Moderation Messages containing racism / sex are deleted and the sender is publicly warned.
 
-    Crypto-currencies Search for BTC, ETH and a few more, and the bot will return its current price in USD.
+  Crypto-currencies Search for BTC, ETH and a few more, and the bot will return its current price in USD.
 
-    Clean up If you got a lot of bot-messages in a channel, this bot will delete all of them when asked to.
+  Clean up If you got a lot of bot-messages in a channel, this bot will delete all of them when asked to.
 
-    Scan previous infractions The bot can be told to scan a channel for unwanted messages (would be usefull if it has been down for some time, or just got invited to the server)
+  Scan previous infractions The bot can be told to scan a channel for unwanted messages (would be usefull if it has been down for some time, or just got invited to the server)
 
-    How to build a bot If requested it will send you a video on how to build discord bots.
+ How to build a bot If requested it will send you a video on how to build discord bots.
 
 How it works:
 The bot uses the “createMessage” eventhandler to read all new messages in a server.
